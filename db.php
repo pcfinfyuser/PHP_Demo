@@ -8,10 +8,10 @@ if (function_exists('mysqli_connect') == false){
     return;
 }
 
-    $dbname = "ad_77f30097c67ca30";
+    $dbname = "ad_3054526f315b059";
     $hostname ="us-cdbr-iron-east-05.cleardb.net";
-    $username = "bd3e38fd0badda";
-    $password = "55902d54";
+    $username = "b9a8cdf8ce0639";
+    $password = "561dbd44";
 
 
 $mysql = mysqli_connect($hostname, $username, $password, $dbname );
